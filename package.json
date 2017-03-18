@@ -1,0 +1,24 @@
+{
+  "name": "string-format",
+  "version": "1.0.0",
+  "description": "Adiciona o método \"format\" no objeto String do javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edvaldoszy/string-format.git"
+  },
+  "keywords": [
+    "javascript",
+    "string",
+    "format"
+  ],
+  "author": "Edvaldo Szymonek <edvaldoszy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edvaldoszy/string-format/issues"
+  },
+  "homepage": "https://github.com/edvaldoszy/string-format#readme"
+}
